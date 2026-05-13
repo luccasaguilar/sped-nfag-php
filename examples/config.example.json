@@ -1,0 +1,10 @@
+{
+  "tpAmb": 2,
+  "siglaUF": "RS",
+  "cnpj": "00000000000000",
+  "certPfx": "/absolute/path/to/certificate.pfx",
+  "certPassword": "password",
+  "schemesPath": "schemes/PRNFAG",
+  "soapTimeout": 30,
+  "version": "1.00"
+}
